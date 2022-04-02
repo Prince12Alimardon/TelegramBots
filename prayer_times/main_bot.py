@@ -4,7 +4,7 @@ import requests
 from aiogram import Bot, Dispatcher, executor
 from aiogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 
-bot = Bot(token="5271842964:AAFS-iFQnxH2EqCZDKSweWqbdXUQPKysh4I", parse_mode="HTML")
+bot = Bot(token="Your Bot Token", parse_mode="HTML")
 dp = Dispatcher(bot)
 butto1 = InlineKeyboardButton("Bugun", callback_data='bugun')
 butto2 = InlineKeyboardButton("Ertaga", callback_data='ertaga')
