@@ -1,2 +1,2 @@
-bot_token = '5286871926:AAGibE5SpnlhQpXbvYGYdQWJVMqx3y8rOPc'
+bot_token = 'Your Bot token'
 DB_NAME = 'ramadan.sqlite'
