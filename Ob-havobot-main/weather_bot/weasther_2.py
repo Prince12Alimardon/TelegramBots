@@ -3,7 +3,7 @@ from telegram.ext import MessageHandler, Filters
 from funksiyalar import *
 
 
-updater = Updater(token="5255967435:AAEpFxeehy7_cGkVs1Svta0IEw6NDsWjt-k")
+updater = Updater(token="Your Bot Token")
 dispatcher = updater.dispatcher
 
 conv_handler = ConversationHandler(
